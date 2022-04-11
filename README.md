@@ -6,5 +6,5 @@ Bianca Matilde Massacci - i6261625 \
 Hao Yun -  \
 Xinqian Qian - i6209160 \
 Xing Su - i6207451 \
-Wenxiong Wu - i6267624 \
+Wenxiong Wu - i6267624
 
